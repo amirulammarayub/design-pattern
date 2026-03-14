@@ -72,7 +72,7 @@ export default function Welcome({
                                             target="_blank"
                                             className="ml-1 inline-flex items-center space-x-1 font-medium text-[#f53003] underline underline-offset-4 dark:text-[#FF4433]"
                                         >
-                                            <span>Huh</span>
+                                            <span>Documentation</span>
                                             <svg
                                                 width={10}
                                                 height={11}
